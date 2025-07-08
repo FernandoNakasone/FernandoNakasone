@@ -8,16 +8,18 @@
 <div align="left">
 <table>
   <tr>
-  <td><strong>Nome:</strong></td> <td><strong>Fernando Nakasone</strong></td>
+    <td><strong>Nome:</strong></td> 
+    <td>Fernando Nakasone</td>
   </tr>
-  <tr></tr><td><strong>Estado:</strong></td> <td><strong>São Paulo - Brasil<strong></td></tr>
+  <tr>
+    <td><strong>Estado:</strong></td> 
+    <td>São Paulo - Brasil</td>
+  </tr>
   <tr>
     <td><strong>Formação:</strong></td>
     <td>
-      <ul>
-        <li><strong>Ensino Médio Técnico</strong> – Informática para Internet – <em>ETEC Albert Einstein</em></li>
-        <li><strong>Bacharelado</strong> – Sistemas de Informação – <em>FIAP</em></li>
-      </ul>
+      Ensino Médio Técnico – Informática para Internet – <em>ETEC Albert Einstein</em><br>
+      Bacharelado – Sistemas de Informação – <em>FIAP</em>
     </td>
   </tr>
 </table>
