@@ -5,7 +5,7 @@
 
 ## Informações
 
-<div align="center">
+<div align="left">
 <table>
   <tr>
   <td><strong>Nome:</strong></td> <td><strong>Fernando Nakasone</strong></td>
@@ -26,8 +26,8 @@
 ##
 <div align="center">  
   <a href="https://github.com/FernandoNakasone">
-  <img height="180em" width = "500" src="https://github-readme-stats.vercel.app/api?username=FernandoNakasone&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = "500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoNakasone&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=FernandoNakasone&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoNakasone&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
 <!--
