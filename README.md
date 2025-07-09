@@ -1,9 +1,14 @@
-## Bem-vindo!! 
+## 😊 Bem-vindo!! 
 <p align="center" dir="auto">
 <img  src="https://i.imgur.com/v889qLQ.gif">
 </p>
 
-## Informações
+## 📝 Sobre mim
+
+<p>Olá me chamo Fernando, estou atualmente cursando o 2º ano de Sistemas de informação na FIAP, gosto de tecnologia, jogos e cultura geek no geral, gosto de transformar ideias em código funcional e aprender criando projetos na prática.</p>
+<p>🎯 Meu objetivo é evoluir como desenvolvedor, criando soluções que unam lógica, criatividade e boas práticas.</p>
+
+## ✏️ Informações
 
 <div align="left">
 <table>
@@ -12,8 +17,16 @@
     <td>Fernando Nakasone</td>
   </tr>
   <tr>
+    <td><strong>Idade</strong></td>
+    <td>20 Anos (26/07/2004)</td>
+  </tr>
+  <tr>
     <td><strong>Estado:</strong></td> 
     <td>São Paulo - Brasil</td>
+  </tr>
+  <tr>
+    <td><strong>Email:</strong></td>
+    <td>Fernandonakasone040@gmail.com</td>
   </tr>
   <tr>
     <td><strong>Formação:</strong></td>
@@ -26,19 +39,27 @@
 </div>
 
 ##
+
+## 🚀 Tecnologias
+<div>
+<img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>   
+<img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> 
+</div>      
+
+## 💻 Stats
 <div align="left">  
   <a href="https://github.com/FernandoNakasone">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoNakasone&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoNakasone&hide_progress=false&theme=radical"/>
   </a>
 </div>
-<!--
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📲 Redes sociais
+
+<div align="left">
+  <a href="mailto:fernandonakasone040@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fernando-nakasone-22a659250/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/fernando_nakasone/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
