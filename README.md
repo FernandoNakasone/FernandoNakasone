@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td><strong>Idade</strong></td>
-    <td>20 Anos (26/07/2004)</td>
+    <td>21 Anos (26/07/2004)</td>
   </tr>
   <tr>
     <td><strong>Estado:</strong></td> 
