@@ -61,6 +61,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoNakasone&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoNakasone&hide_progress=false&theme=radical&layout=compact"/>
   </a>
+  <p> <img src="https://komarev.com/ghpvc/?username=luccasformicki&color=yellow" alt="Profile views" /> </p>
 </div>
 
 ## 📲 Redes sociais
