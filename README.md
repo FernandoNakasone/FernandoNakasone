@@ -1,4 +1,4 @@
-ndo## 😊 Bem-vindo!! 
+## 😊 Bem-vindo!! 
 <p align="center" dir="auto">
 <img  src="https://i.imgur.com/v889qLQ.gif">
 </p>
