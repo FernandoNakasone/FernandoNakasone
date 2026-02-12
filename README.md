@@ -5,7 +5,7 @@
 
 ## 📝 Sobre mim
 
-<p>Olá me chamo Fernando, estou atualmente cursando o 2º ano de Sistemas de informação na FIAP, gosto de tecnologia, jogos e cultura geek no geral, gosto de transformar ideias em código funcional e aprender criando projetos na prática.</p>
+<p>Olá me chamo Fernando, estou atualmente cursando o 3º ano de Sistemas de informação na FIAP, gosto de tecnologia, jogos e cultura geek no geral, gosto de transformar ideias em código funcional e aprender criando projetos na prática.</p>
 <p>🎯 Meu objetivo é evoluir como desenvolvedor, criando soluções que unam lógica, criatividade e boas práticas.</p>
 
 ## ✏️ Informações
